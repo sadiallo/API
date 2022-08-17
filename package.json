@@ -1,0 +1,18 @@
+{
+  "name": "bloc-articles-api",
+  "version": "1.0.0",
+  "description": "Création API Rest avec expressJs pour gerer un bloc d'articles.",
+  "main": "app.js",  
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Salamata",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
